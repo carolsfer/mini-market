@@ -1,6 +1,8 @@
 # MiniMarket
 
-A C++ terminal application for managing a small grocery store's product records. The project uses SQLite and implements the basic CRUD operations: create, read, update, and delete products.
+MiniMarket is a C++ terminal application for managing a small grocery store's product records. The project was originally developed as a college programming exercise and was later refactored to improve its structure, readability, and data management.
+
+The current version uses SQLite for persistent storage and implements the basic CRUD operations: create, read, update, and delete products. It also includes input validation, parameterized SQL queries, separation of responsibilities, and a CMake configuration.
 
 ## Features
 
